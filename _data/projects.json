@@ -1,7 +1,7 @@
 [
 	{
 		"name": "My Website",
-		"image": "placeholder.jpg",
+		"image": "website.png",
 		"url": "https://github.com/connoryork/connoryork.github.io",
 		"date": "March 2019",
 		"tags": ["Web Development","Jekyll", "GitHub"]
